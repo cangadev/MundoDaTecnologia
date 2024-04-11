@@ -1,0 +1,22 @@
+.Header{
+    width: 100%;
+    height: 90px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.container{
+    width: 100%;
+    height: 600px;
+    background-image: url(../imgf.jpg);
+}
+.container section{
+    width: 100%;
+    height: 600px;
+    background-color: #16161d95;
+    display: flex;
+    justify-content: space-between;
+
+}
